@@ -35,3 +35,10 @@
 
 **Thoughts** Web3 is a new things for me, learning a new things is challenging but also somehow give me excitement to learn more 
 
+
+### Day 2: 14 January 2022
+
+**Today Progress**: Learn Web3 how to integrate your smart contract with testnet and call it from the frontend
+
+**Thoughts** Still have some question about how the smart contract how really work, but its not a problem because this is the journey to learn new things
+

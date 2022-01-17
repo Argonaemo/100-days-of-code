@@ -42,3 +42,10 @@
 
 **Thoughts** Still have some question about how the smart contract how really work, but its not a problem because this is the journey to learn new things
 
+
+### Day 3, 4, 5: 14, 15, 16 January 2022
+
+**Today Progress**: Learn Web3 how to store data in blockchain, funding contract, prevent spammer, and pick user random to send some fake eth.
+
+**Thoughts** Even just a little now i can kinda see whats going on with blockchain and understand a basic concept how things work on blockchain through solidity language
+

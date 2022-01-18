@@ -43,9 +43,15 @@
 **Thoughts** Still have some question about how the smart contract how really work, but its not a problem because this is the journey to learn new things
 
 
-### Day 3, 4, 5: 14, 15, 16 January 2022
+### Day 3, 4, 5: 15, 16, 17 January 2022
 
 **Today Progress**: Learn Web3 how to store data in blockchain, funding contract, prevent spammer, and pick user random to send some fake eth.
 
 **Thoughts** Even just a little now i can kinda see whats going on with blockchain and understand a basic concept how things work on blockchain through solidity language
 
+
+### Day 6: 18 January 2022
+
+**Today Progress**: Finishing my project Build a Web3 App with Solidity + Ethereum Smart Contracts on [buildspace](https://buildspace.so/)
+
+**Thoughts** Definitely happy because finishing my project and course, even so there is still a bug i'm working on the project. Hope this will be a start of my journey to become a more skillful engineer.

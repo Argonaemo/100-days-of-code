@@ -55,3 +55,10 @@
 **Today Progress**: Finishing my project Build a Web3 App with Solidity + Ethereum Smart Contracts on [buildspace](https://buildspace.so/)
 
 **Thoughts** Definitely happy because finishing my project and course, even so there is still a bug i'm working on the project. Hope this will be a start of my journey to become a more skillful engineer.
+
+
+### Day 7: 19 January 2022
+
+**Today Progress**: Watch and learn more about blockchain, how its work, real application, step by step plan, etc. in youtube DappUniversity
+
+**Thoughts** Deciding to learn more about blockchain and do some project after, but didnt know if the time is enough because been busy recently due to school task.

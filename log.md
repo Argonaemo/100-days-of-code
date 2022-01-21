@@ -62,3 +62,10 @@
 **Today Progress**: Watch and learn more about blockchain, how its work, real application, step by step plan, etc. in youtube DappUniversity
 
 **Thoughts** Deciding to learn more about blockchain and do some project after, but didnt know if the time is enough because been busy recently due to school task.
+
+
+### Day 8: 21 January 2022
+
+**Today Progress**: Build by learn/watch tutorial by DappUniversity 3 hours free courses. Learning how to setup development with truffle and ganache. Also learn new things abput making your own token in ethereum. Migrating my contract into the blockchain and write some code in migration to do something before using my smart contract soon.
+
+**Thoughts** This getting interesting, i just know that making your own token isnt that hard (of course a simple token).

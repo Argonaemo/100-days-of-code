@@ -69,3 +69,11 @@
 **Today Progress**: Build by learn/watch tutorial by DappUniversity 3 hours free courses. Learning how to setup development with truffle and ganache. Also learn new things abput making your own token in ethereum. Migrating my contract into the blockchain and write some code in migration to do something before using my smart contract soon.
 
 **Thoughts** This getting interesting, i just know that making your own token isnt that hard (of course a simple token).
+
+
+
+### Day 9: 22 January 2022
+
+**Today Progress**: Making some testing with chai in ganache, and also seting up some function helper.
+
+**Thoughts** Getting tired but the grind must go 💪

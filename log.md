@@ -77,3 +77,10 @@
 **Today Progress**: Making some testing with chai in ganache, and also seting up some function helper.
 
 **Thoughts** Getting tired but the grind must go 💪
+
+
+### Day 10: 23 January 2022
+
+**Today Progress**: Making some function so our user can buy our token with ether and making some event.
+
+**Thoughts** Wow day 10 proud of myself 😁, Just learning many things beside my code today, can't wait to learn more things.

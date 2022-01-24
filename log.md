@@ -84,3 +84,11 @@
 **Today Progress**: Making some function so our user can buy our token with ether and making some event.
 
 **Thoughts** Wow day 10 proud of myself 😁, Just learning many things beside my code today, can't wait to learn more things.
+
+
+
+### Day 11: 24 January 2022
+
+**Today Progress**: Finishing the smart contract functionality and testing all, Fortunately all work like as expected.
+
+**Thoughts** Absolutely happy because finishing one of the tutorial section.

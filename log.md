@@ -92,3 +92,19 @@
 **Today Progress**: Finishing the smart contract functionality and testing all, Fortunately all work like as expected.
 
 **Thoughts** Absolutely happy because finishing one of the tutorial section.
+
+
+
+### Day 12: 25 January 2022
+
+**Today Progress**: Setting up the frontend and make connection to user wallet.
+
+**Thoughts** Not doing to much code because of busy.
+
+
+
+### Day 13: 26 January 2022
+
+**Today Progress**: Connect with smart contract and dispaly some user data from wallet that connected.
+
+**Thoughts** Almost finished the course.

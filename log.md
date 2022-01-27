@@ -108,3 +108,11 @@
 **Today Progress**: Connect with smart contract and dispaly some user data from wallet that connected.
 
 **Thoughts** Almost finished the course.
+
+
+
+### Day 14: 27 January 2022
+
+**Today Progress**: Finishing my second tutorial for blockchain.
+
+**Thoughts** Definitely happy, thought to continue the third one that also maybe the last one before actually build my own project from scratch, who knows.

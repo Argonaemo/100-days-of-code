@@ -116,3 +116,20 @@
 **Today Progress**: Finishing my second tutorial for blockchain.
 
 **Thoughts** Definitely happy, thought to continue the third one that also maybe the last one before actually build my own project from scratch, who knows.
+
+
+### Day 15: 28 January 2022
+
+**Today Progress**: Doesnt code to much, only work on school task.
+
+**Thoughts** Tired because this is my first day workout since school get offline again.
+
+
+
+### Day 16: 29 January 2022
+
+**Today Progress**: Start learning a new tutorial, the tutorial finished project is like a nft markeplace.
+
+**Thoughts** Confused and tired, considering to continue on learning web3 because web3 actually not really a good idea for environment and i dont want be the part of making earth worst 😔. But yeah regardless this gonna be my last tutorial, and my plan after is to build like a art appreciation and showcase platform where you can support the artist by send them some ethereum, idk this depends on this tutorial if im considering it like kinda hard im just gonna pass this part and come back to react.
+
+In react i have plan to like watch some tutorial that build like a big big project like a fullstack social media, medium, chatting apps, or things like that so i can continue to build my own.

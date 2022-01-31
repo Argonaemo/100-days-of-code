@@ -133,3 +133,18 @@
 **Thoughts** Confused and tired, considering to continue on learning web3 because web3 actually not really a good idea for environment and i dont want be the part of making earth worst 😔. But yeah regardless this gonna be my last tutorial, and my plan after is to build like a art appreciation and showcase platform where you can support the artist by send them some ethereum, idk this depends on this tutorial if im considering it like kinda hard im just gonna pass this part and come back to react.
 
 In react i have plan to like watch some tutorial that build like a big big project like a fullstack social media, medium, chatting apps, or things like that so i can continue to build my own.
+
+
+
+### Day 17: 30 January 2022
+
+**Today Progress**: Continue learning in nader dabit yt.
+
+**Thoughts** Start to focusing again.
+
+
+### Day 18: 31 January 2022
+
+**Today Progress**: Finishing all main functionality in the tutorial.
+
+**Thoughts** Almost day 20, it just felt 10th day is yesteday lol

@@ -148,3 +148,19 @@ In react i have plan to like watch some tutorial that build like a big big proje
 **Today Progress**: Finishing all main functionality in the tutorial.
 
 **Thoughts** Almost day 20, it just felt 10th day is yesteday lol
+
+
+
+### Day 19: 1 February 2022
+
+**Today Progress**: Just a little code due to school.
+
+**Thoughts** Probably cant code in a several days
+
+
+
+### Day 20: 6 February 2022
+
+**Today Progress**: Making some function in the frontend to interact with the smart contract.
+
+**Thoughts** Finally get back to code again lol, i cant code due to a very busy school event and task. Also happy 20 days 🥳🥳

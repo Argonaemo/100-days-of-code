@@ -164,3 +164,11 @@ In react i have plan to like watch some tutorial that build like a big big proje
 **Today Progress**: Making some function in the frontend to interact with the smart contract.
 
 **Thoughts** Finally get back to code again lol, i cant code due to a very busy school event and task. Also happy 20 days 🥳🥳
+
+
+
+### Day 21: 7 February 2022
+
+**Today Progress**: 'Finishing' function to interact with the smart contract to make nft token and make a sale on the market
+
+**Thoughts** Still got some bugs, but i'm so tired maybe gonna continue this tomorrow.

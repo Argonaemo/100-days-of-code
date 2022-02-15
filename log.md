@@ -172,3 +172,10 @@ In react i have plan to like watch some tutorial that build like a big big proje
 **Today Progress**: 'Finishing' function to interact with the smart contract to make nft token and make a sale on the market
 
 **Thoughts** Still got some bugs, but i'm so tired maybe gonna continue this tomorrow.
+
+
+### Day 22: 15 February 2022
+
+**Today Progress**: Finally succeed to mint my first ever nft in my OWN nft marketplace, how cool!
+
+**Thoughts** its been 8 days after day 21 lol, got very busy because of school things but yeah here we go again, also so happy because finally succeed to mint the first nft in my marketplace, doing hours of debugging and research to make it all clear.

@@ -179,3 +179,11 @@ In react i have plan to like watch some tutorial that build like a big big proje
 **Today Progress**: Finally succeed to mint my first ever nft in my OWN nft marketplace, how cool!
 
 **Thoughts** its been 8 days after day 21 lol, got very busy because of school things but yeah here we go again, also so happy because finally succeed to mint the first nft in my marketplace, doing hours of debugging and research to make it all clear.
+
+
+
+### Day 23: 6 March 2022
+
+**Today Progress**: Finishing my nft marketplace project, still got some bug to do but its ok.
+
+**Thoughts** Not really a day 23, same reason as before: SCHOOL. Having an offline class take my time so much lol 🥴

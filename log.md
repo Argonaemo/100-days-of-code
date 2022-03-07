@@ -187,3 +187,11 @@ In react i have plan to like watch some tutorial that build like a big big proje
 **Today Progress**: Finishing my nft marketplace project, still got some bug to do but its ok.
 
 **Thoughts** Not really a day 23, same reason as before: SCHOOL. Having an offline class take my time so much lol 🥴
+
+
+
+### Day 24: 7 March 2022
+
+**Today Progress**: Initiating new project to building a instagram clone with next js and tailwind css.
+
+**Thoughts** i`m happy because i can do the challenge 2 days in a row now lol, hopefully this can continue.

@@ -195,3 +195,11 @@ In react i have plan to like watch some tutorial that build like a big big proje
 **Today Progress**: Initiating new project to building a instagram clone with next js and tailwind css.
 
 **Thoughts** i`m happy because i can do the challenge 2 days in a row now lol, hopefully this can continue.
+
+
+
+### Day 25: 8 March 2022
+
+**Today Progress**: FInishing the navbar component, learn about tailwind custom utilities.
+
+**Thoughts** : All good, its so cool and funny to see myself cloning an app that i used daily.

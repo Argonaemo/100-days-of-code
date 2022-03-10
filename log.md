@@ -203,3 +203,11 @@ In react i have plan to like watch some tutorial that build like a big big proje
 **Today Progress**: FInishing the navbar component, learn about tailwind custom utilities.
 
 **Thoughts** : All good, its so cool and funny to see myself cloning an app that i used daily.
+
+
+
+### Day 26: 10 March 2022
+
+**Today Progress**: FInishing the story component, having some trouble but i managed to fix it.
+
+**Thoughts** : Hope can finish this project on day 30 or maybe before.

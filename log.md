@@ -211,3 +211,10 @@ In react i have plan to like watch some tutorial that build like a big big proje
 **Today Progress**: FInishing the story component, having some trouble but i managed to fix it.
 
 **Thoughts** : Hope can finish this project on day 30 or maybe before.
+
+
+### Day 27: 11 March 2022
+
+**Today Progress**: FInishing the post and miniprofile ui.
+
+**Thoughts** : This tutorial really help a lot to understand many things even i'm never used the technology before, maybe gonna making the tailwind css to be also my primary choose for styling along with styled-components.

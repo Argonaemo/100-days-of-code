@@ -218,3 +218,11 @@ In react i have plan to like watch some tutorial that build like a big big proje
 **Today Progress**: FInishing the post and miniprofile ui.
 
 **Thoughts** : This tutorial really help a lot to understand many things even i'm never used the technology before, maybe gonna making the tailwind css to be also my primary choose for styling along with styled-components.
+
+
+
+### Day 28: 13 March 2022
+
+**Today Progress**: FInishing authentication with next-auth, finally i can signIn and singOut, using image and other information from my google account, and lastly making a custom signIn pages.
+
+**Thoughts** : Really learn a lot things especially in this part, implementing next auth, configurating with firebase and google cloud, using server side props for signIn, etc. Considering to build along and learn more from tutorial like this.

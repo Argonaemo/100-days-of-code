@@ -226,3 +226,11 @@ In react i have plan to like watch some tutorial that build like a big big proje
 **Today Progress**: FInishing authentication with next-auth, finally i can signIn and singOut, using image and other information from my google account, and lastly making a custom signIn pages.
 
 **Thoughts** : Really learn a lot things especially in this part, implementing next auth, configurating with firebase and google cloud, using server side props for signIn, etc. Considering to build along and learn more from tutorial like this.
+
+
+
+### Day 29: 15 March 2022
+
+**Today Progress**: Adding modal for posting a new post using help from headless ui react library component, and also learning how to use recoil for state management doesnt expect how easy it is lol.
+
+**Thoughts** : styling still one of the biggest problem on my project lol, its so hard to read the structure even after using help from library component like headless ui. Also tomorrow is day 30 💪💪.

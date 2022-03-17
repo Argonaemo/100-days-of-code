@@ -234,3 +234,11 @@ In react i have plan to like watch some tutorial that build like a big big proje
 **Today Progress**: Adding modal for posting a new post using help from headless ui react library component, and also learning how to use recoil for state management doesnt expect how easy it is lol.
 
 **Thoughts** : styling still one of the biggest problem on my project lol, its so hard to read the structure even after using help from library component like headless ui. Also tomorrow is day 30 💪💪.
+
+
+
+### Day 30: 17 March 2022
+
+**Today Progress**: Implementing read and post operation for ig clone post data in firebase to my application.
+
+**Thoughts** : Happy day 30 🥳🥳🥳, 70 days left lol here we go, gonna finishing this ig clone project tomorrow or maybe the next time i can code again because who knows lol i got many school task again.

@@ -242,3 +242,11 @@ In react i have plan to like watch some tutorial that build like a big big proje
 **Today Progress**: Implementing read and post operation for ig clone post data in firebase to my application.
 
 **Thoughts** : Happy day 30 🥳🥳🥳, 70 days left lol here we go, gonna finishing this ig clone project tomorrow or maybe the next time i can code again because who knows lol i got many school task again.
+
+
+
+### Day 31: 18 March 2022
+
+**Today Progress**: Adding likes and comment functionality. Learn how to make a tricky and kinda complicated relation database architecture in document based db like firebase, for implementing the likes and comments data.
+
+**Thoughts** : FINALLY it almost done, there still need to upload and host this project to vercel but i think im gonna do this tomorrow lol, this section really had me tired of thinking.

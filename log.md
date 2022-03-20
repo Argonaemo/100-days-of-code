@@ -250,3 +250,10 @@ In react i have plan to like watch some tutorial that build like a big big proje
 **Today Progress**: Adding likes and comment functionality. Learn how to make a tricky and kinda complicated relation database architecture in document based db like firebase, for implementing the likes and comments data.
 
 **Thoughts** : FINALLY it almost done, there still need to upload and host this project to vercel but i think im gonna do this tomorrow lol, this section really had me tired of thinking.
+
+
+### Day 32: 20 March 2022
+
+**Today Progress**: Finishing ig clone project but i can't deploy it because some error but yeah i guess its done. Also working on another project to slicing my landing page website with react and tailwind.
+
+**Thoughts** : Unfortunately i cant deploy my ig clone project so people can use it but i guess its okay.

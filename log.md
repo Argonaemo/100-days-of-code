@@ -257,3 +257,10 @@ In react i have plan to like watch some tutorial that build like a big big proje
 **Today Progress**: Finishing ig clone project but i can't deploy it because some error but yeah i guess its done. Also working on another project to slicing my landing page website with react and tailwind.
 
 **Thoughts** : Unfortunately i cant deploy my ig clone project so people can use it but i guess its okay.
+
+
+### Day 33: 21 March 2022
+
+**Today Progress**: Finishing 90& of home page of slicing project using tailwind and react.
+
+**Thoughts** : Hopefully i can finish this project tomorrow.

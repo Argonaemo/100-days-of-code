@@ -264,3 +264,11 @@ In react i have plan to like watch some tutorial that build like a big big proje
 **Today Progress**: Finishing 90% of home page of slicing project using tailwind and react.
 
 **Thoughts** : Hopefully i can finish this project tomorrow.
+
+
+
+### Day 34: 22 March 2022
+
+**Today Progress**: Finish slicing my landing page website design, with react and tailwind css
+
+**Thoughts** : Gotta do some design things tomorrow, maybe i'm not able to continue this challenge in several days.

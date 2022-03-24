@@ -272,3 +272,13 @@ In react i have plan to like watch some tutorial that build like a big big proje
 **Today Progress**: Finish slicing my landing page website design, with react and tailwind css
 
 **Thoughts** : Gotta do some design things tomorrow, maybe i'm not able to continue this challenge in several days.
+
+
+
+
+
+### Day 35: 24 March 2022
+
+**Today Progress**: Learning dart for flutter, learn the basic like data type, classes, instances, etc.
+
+**Thoughts** : This so remind me of the js oop class i took on dicoding last year, the differences between those is only about dynamic and static, this also feel kinda easy to understand because also similar with java

@@ -288,3 +288,10 @@ In react i have plan to like watch some tutorial that build like a big big proje
 **Today Progress**: Start school project with laravel and tailwind.
 
 **Thoughts** : Why school gave me so much homework lol
+
+
+### Day 37: 30 March 2022
+
+**Today Progress**: Continue the school project with laravel.
+
+**Thoughts** : Struggle on laravel multi auth, just wasting a 2-3 hours for these things and still got nothing

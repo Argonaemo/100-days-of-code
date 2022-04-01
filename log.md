@@ -295,3 +295,10 @@ In react i have plan to like watch some tutorial that build like a big big proje
 **Today Progress**: Continue the school project with laravel.
 
 **Thoughts** : Struggle on laravel multi auth, just wasting a 2-3 hours for these things and still got nothing
+
+
+### Day 38: 1 April 2022
+
+**Today Progress**: Continue the school project with laravel (again).
+
+**Thoughts** : Laravel stresses me out

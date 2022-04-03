@@ -302,3 +302,10 @@ In react i have plan to like watch some tutorial that build like a big big proje
 **Today Progress**: Continue the school project with laravel (again).
 
 **Thoughts** : Laravel stresses me out
+
+
+### Day 39: 3 April 2022
+
+**Today Progress**: Doing side project, slicing the design.
+
+**Thoughts** : So far so good, btw happy ramadhan

@@ -309,3 +309,10 @@ In react i have plan to like watch some tutorial that build like a big big proje
 **Today Progress**: Doing side project, slicing the design.
 
 **Thoughts** : So far so good, btw happy ramadhan
+
+
+### Day 40: 3 April 2022
+
+**Today Progress**: Finishing side project. Getting on some more design things.
+
+**Thoughts** : Need to reschedule my activity due to ramadhan, btw happy day 40 🥳💪

@@ -316,3 +316,19 @@ In react i have plan to like watch some tutorial that build like a big big proje
 **Today Progress**: Finishing side project. Getting on some more design things.
 
 **Thoughts** : Need to reschedule my activity due to ramadhan, btw happy day 40 🥳💪
+
+
+
+### Day 41: 9 April 2022
+
+**Today Progress**: Working on my side project using react, can't wait to finish this!
+
+**Thoughts** : IDK i forgot to make log on this day
+
+
+### Day 42: 13 April 2022
+
+**Today Progress**: Continuing my side project, implementing and learn more about recoil state management today
+
+**Thoughts** : Got confused on the auth flow but things start getting clearly now
+

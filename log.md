@@ -332,3 +332,9 @@ In react i have plan to like watch some tutorial that build like a big big proje
 
 **Thoughts** : Got confused on the auth flow but things start getting clearly now
 
+
+### Day 43: 15 April 2022
+
+**Today Progress**: Finishing some components, read and write data from google cloud firestore with firebase, maybe this like 60% of the progress, idk but hopefully i can finish the project before deadline.
+
+**Thoughts** : Hope i can finish this before the deadline

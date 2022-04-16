@@ -338,3 +338,10 @@ In react i have plan to like watch some tutorial that build like a big big proje
 **Today Progress**: Finishing some components, read and write data from google cloud firestore with firebase, maybe this like 60% of the progress, idk but hopefully i can finish the project before deadline.
 
 **Thoughts** : Hope i can finish this before the deadline
+
+
+### Day 44: 16 April 2022
+
+**Today Progress**:  Finishing 70% of the second page of my side project, maybe gonna finish this tomorrow if I put more time into it
+
+**Thoughts** : This gonna be one of my coolest project

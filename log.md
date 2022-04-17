@@ -345,3 +345,11 @@ In react i have plan to like watch some tutorial that build like a big big proje
 **Today Progress**:  Finishing 70% of the second page of my side project, maybe gonna finish this tomorrow if I put more time into it
 
 **Thoughts** : This gonna be one of my coolest project
+
+
+
+### Day 44: 16 April 2022
+
+**Today Progress**:  Finishing my project, need to do some setup first before actually hosted it
+
+**Thoughts** : Happu because i finally submit the project

@@ -348,7 +348,7 @@ In react i have plan to like watch some tutorial that build like a big big proje
 
 
 
-### Day 44: 16 April 2022
+### Day 45: 17 April 2022
 
 **Today Progress**:  Finishing my project, need to do some setup first before actually hosted it
 

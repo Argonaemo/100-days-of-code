@@ -353,3 +353,12 @@ In react i have plan to like watch some tutorial that build like a big big proje
 **Today Progress**:  Finishing my project, need to do some setup first before actually hosted it
 
 **Thoughts** : Happu because i finally submit the project
+
+
+
+
+### Day 46: 20 April 2022
+
+**Today Progress**: Learning vue3 basic concept, the v-things, components, vue form and others from The Net Ninja Youtube.
+
+**Thoughts** : Start to see where i can benefit this lot of features from vue lol, so confusing and stressed out in the first day when thinking all the vue features is "useless" bcs think i can make the same app with react in less code but yeah now i can see what vue advantages and flow.

@@ -369,3 +369,11 @@ In react i have plan to like watch some tutorial that build like a big big proje
 **Today Progress**: Finishing my vue course, learning about composition API in vue3, how and why use it.
 
 **Thoughts** : Vue is awesome and have lot features which react it self dont (ofc because react is a library), its kinda hard for me who learn react before to learn vue have different approaches than react, but overall is good.
+
+
+### Day 48: 3 May 2022
+
+**Today Progress**: Learning more about solidity concept on Crypto Zombies, very interesting and cool!
+
+**Thoughts** : A very helpful course to remind me about the solidity concept and even more understandable, idk if i can focus on web3 or not due to school and another reason like i want to build things/my next project that really lays on react and next which i need to learn more about later.
+

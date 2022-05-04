@@ -377,3 +377,10 @@ In react i have plan to like watch some tutorial that build like a big big proje
 
 **Thoughts** : A very helpful course to remind me about the solidity concept and even more understandable, idk if i can focus on web3 or not due to school and another reason like i want to build things/my next project that really lays on react and next which i need to learn more about later.
 
+
+### Day 49: 4 May 2022
+
+**Today Progress**: Continuing learn from cryptozombie, today i learn about standardize my token with the ERC721 from openzeppelin, transferring token, using another library from openzeppelin like safemath and others.
+
+**Thoughts** : Really confuse to continue this or back again to react, but at the same time on my react side also have problem for searching a good idea for my next side project.
+

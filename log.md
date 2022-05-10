@@ -384,3 +384,9 @@ In react i have plan to like watch some tutorial that build like a big big proje
 
 **Thoughts** : Really confuse to continue this or back again to react, but at the same time on my react side also have problem for searching a good idea for my next side project.
 
+
+### Day 49: 4 May 2022
+
+**Today Progress**: Learn a little bit laravel from laracast, also working on my another side project using react
+
+**Thoughts** : Happy 50th Day🥳🥳🥳🥳, ngl i'm not expected will take this long to the 50th day lol, but it is what it is.

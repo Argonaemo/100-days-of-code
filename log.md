@@ -397,3 +397,10 @@ In react i have plan to like watch some tutorial that build like a big big proje
 **Today Progress**: Adding login and signup functionality in my side project using firebase authentication
 
 **Thoughts** : Kinda confuse because this the first time using firebase auth, but fortunately still made it.
+
+
+### Day 52: 12 May 2022
+
+**Today Progress**: Finishing the sidebar component for my side project.
+
+**Thoughts** : Still got problem with nesting route, gonna make this work tomorrow

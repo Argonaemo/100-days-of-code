@@ -404,3 +404,10 @@ In react i have plan to like watch some tutorial that build like a big big proje
 **Today Progress**: Finishing the sidebar component for my side project.
 
 **Thoughts** : Still got problem with nesting route, gonna make this work tomorrow
+
+
+### Day 53: 13 May 2022
+
+**Today Progress**: Working on my side project, do many styling with tailwind today.
+
+**Thoughts** : The all habits pages is 80% completed but still static, ngl still confused about the habit database shema because its relating and working with a date which gonna take a lot of space.

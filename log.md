@@ -411,3 +411,10 @@ In react i have plan to like watch some tutorial that build like a big big proje
 **Today Progress**: Working on my side project, do many styling with tailwind today.
 
 **Thoughts** : The all habits pages is 80% completed but still static, ngl still confused about the habit database shema because its relating and working with a date which gonna take a lot of space.
+
+
+### Day 54: 14 May 2022
+
+**Today Progress**:Doesn't do code too much today, instead spent a lot of time designing and doing research for the database schema in this project.
+
+**Thoughts** : Got some ideas for the database schema, but still cant figured out which one is the best and most suitable for the project.

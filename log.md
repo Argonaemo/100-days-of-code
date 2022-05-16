@@ -418,3 +418,11 @@ In react i have plan to like watch some tutorial that build like a big big proje
 **Today Progress**:Doesn't do code too much today, instead spent a lot of time designing and doing research for the database schema in this project.
 
 **Thoughts** : Got some ideas for the database schema, but still cant figured out which one is the best and most suitable for the project.
+
+
+
+### Day 55: 16 May 2022
+
+**Today Progress**: Continue working on the side project, adding read functionality from firebase firestore
+
+**Thoughts** : Still stuck on the database schema problem, maybe the only way is to write more code

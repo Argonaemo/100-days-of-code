@@ -426,3 +426,11 @@ In react i have plan to like watch some tutorial that build like a big big proje
 **Today Progress**: Continue working on the side project, adding read functionality from firebase firestore
 
 **Thoughts** : Still stuck on the database schema problem, maybe the only way is to write more code
+
+
+
+### Day 56: 23 May 2022
+
+**Today Progress**: Continue on my side project, adding another functionality with firebase
+
+**Thoughts** : Working on another things while deciding and rethinking about the schema.

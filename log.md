@@ -434,3 +434,11 @@ In react i have plan to like watch some tutorial that build like a big big proje
 **Today Progress**: Continue on my side project, adding another functionality with firebase
 
 **Thoughts** : Working on another things while deciding and rethinking about the schema.
+
+
+
+### Day 57: 25 May 2022
+
+**Today Progress**: Working on another project using react and tailwind
+
+**Thoughts** : The feeling when starting new project 😎😎😎

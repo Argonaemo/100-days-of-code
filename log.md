@@ -442,3 +442,11 @@ In react i have plan to like watch some tutorial that build like a big big proje
 **Today Progress**: Working on another project using react and tailwind
 
 **Thoughts** : The feeling when starting new project 😎😎😎
+
+
+
+### Day 58: 26 May 2022
+
+**Today Progress**: Finishing authentication logic in my project, working on some animation and little UI details using react-toastify.
+
+**Thoughts** : the user flow decision and logic took most of my time today lol.

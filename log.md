@@ -450,3 +450,11 @@ In react i have plan to like watch some tutorial that build like a big big proje
 **Today Progress**: Finishing authentication logic in my project, working on some animation and little UI details using react-toastify.
 
 **Thoughts** : the user flow decision and logic took most of my time today lol.
+
+
+
+### Day 59: 27 May 2022
+
+**Today Progress**: Working on some admin components using react, also making a sticky sidebar is easier than I thought.
+
+**Thoughts** : still got so many things to work on lol.

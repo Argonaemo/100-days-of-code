@@ -458,3 +458,11 @@ In react i have plan to like watch some tutorial that build like a big big proje
 **Today Progress**: Working on some admin components using react, also making a sticky sidebar is easier than I thought.
 
 **Thoughts** : still got so many things to work on lol.
+
+
+
+### Day 60: 04 May 2022
+
+**Today Progress**:  Continue working on the project, today's lesson: default button tag will submit your form.
+
+**Thoughts** : got some problem because a button tag lmao

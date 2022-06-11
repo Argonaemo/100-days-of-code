@@ -466,3 +466,11 @@ In react i have plan to like watch some tutorial that build like a big big proje
 **Today Progress**:  Continue working on the project, today's lesson: default button tag will submit your form.
 
 **Thoughts** : got some problem because a button tag lmao
+
+
+
+### Day 61: 11 May 2022
+
+**Today Progress**:  Continue working on project, do some debugging and slicing today.
+
+**Thoughts** : ngoding bentaran doang.

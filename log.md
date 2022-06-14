@@ -474,3 +474,12 @@ In react i have plan to like watch some tutorial that build like a big big proje
 **Today Progress**:  Continue working on project, do some debugging and slicing today.
 
 **Thoughts** : ngoding bentaran doang.
+
+
+
+### Day 62: 15 May 2022
+
+**Today Progress**:  Do More Slicing Using Tailwind
+
+**Thoughts** : tailwind for the win, tailwind >>> bootstrap
+

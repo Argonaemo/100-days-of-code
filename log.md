@@ -483,3 +483,11 @@ In react i have plan to like watch some tutorial that build like a big big proje
 
 **Thoughts** : tailwind for the win, tailwind >>> bootstrap
 
+
+
+### Day 63: 17 May 2022
+
+**Today Progress**:  Slicing a new page with react and tailwind, also do some refactoring on my code.
+
+**Thoughts** : mulai masuk2 ke ranah payment😵‍💫😵‍💫, harus banyak refactor dulu biar flow user bisa bener.
+

@@ -491,3 +491,9 @@ In react i have plan to like watch some tutorial that build like a big big proje
 
 **Thoughts** : mulai masuk2 ke ranah payment😵‍💫😵‍💫, harus banyak refactor dulu biar flow user bisa bener.
 
+
+### Day 64: 22 May 2022
+
+**Today Progress**: Doing some integration between react and midtrans as the payment gateway
+
+**Thoughts** : Berhasil integrasi proses flow pembayaran user lewat midtrans, lumayan susah awalnya karena harus banyak refactoring dulu biar flownya lebih enak dan lebih "best practice"

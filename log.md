@@ -497,3 +497,11 @@ In react i have plan to like watch some tutorial that build like a big big proje
 **Today Progress**: Doing some integration between react and midtrans as the payment gateway
 
 **Thoughts** : Berhasil integrasi proses flow pembayaran user lewat midtrans, lumayan susah awalnya karena harus banyak refactoring dulu biar flownya lebih enak dan lebih "best practice"
+
+
+
+### Day 65: 29 May 2022
+
+**Today Progress**: Working on another project using react, dealing with admin authorization things with firebase
+
+**Thoughts** : Spend 1/2 jam cuma buat nyari tau kenapa form gak ke submit, taunya karena register input lebih dari 1 form itu gak boleh hadeh.

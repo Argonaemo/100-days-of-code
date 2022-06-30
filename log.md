@@ -505,3 +505,11 @@ In react i have plan to like watch some tutorial that build like a big big proje
 **Today Progress**: Working on another project using react, dealing with admin authorization things with firebase
 
 **Thoughts** : Spend 1/2 jam cuma buat nyari tau kenapa form gak ke submit, taunya karena register input lebih dari 1 form itu gak boleh hadeh.
+
+
+
+### Day 66: 30 May 2022
+
+**Today Progress**: dealing with a lot of firebase logic and integration with react
+
+**Thoughts** : langsung develop tanpa ada final design bener2 malah jadi senjata makan tuan

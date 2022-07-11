@@ -461,7 +461,7 @@ In react i have plan to like watch some tutorial that build like a big big proje
 
 
 
-### Day 60: 04 May 2022
+### Day 60: 04 June 2022
 
 **Today Progress**:  Continue working on the project, today's lesson: default button tag will submit your form.
 
@@ -469,7 +469,7 @@ In react i have plan to like watch some tutorial that build like a big big proje
 
 
 
-### Day 61: 11 May 2022
+### Day 61: 11 June 2022
 
 **Today Progress**:  Continue working on project, do some debugging and slicing today.
 
@@ -477,7 +477,7 @@ In react i have plan to like watch some tutorial that build like a big big proje
 
 
 
-### Day 62: 15 May 2022
+### Day 62: 15 June 2022
 
 **Today Progress**:  Do More Slicing Using Tailwind
 
@@ -485,14 +485,14 @@ In react i have plan to like watch some tutorial that build like a big big proje
 
 
 
-### Day 63: 17 May 2022
+### Day 63: 17 June 2022
 
 **Today Progress**:  Slicing a new page with react and tailwind, also do some refactoring on my code.
 
 **Thoughts** : mulai masuk2 ke ranah payment😵‍💫😵‍💫, harus banyak refactor dulu biar flow user bisa bener.
 
 
-### Day 64: 22 May 2022
+### Day 64: 22 June 2022
 
 **Today Progress**: Doing some integration between react and midtrans as the payment gateway
 
@@ -500,7 +500,7 @@ In react i have plan to like watch some tutorial that build like a big big proje
 
 
 
-### Day 65: 29 May 2022
+### Day 65: 29 June 2022
 
 **Today Progress**: Working on another project using react, dealing with admin authorization things with firebase
 
@@ -508,8 +508,17 @@ In react i have plan to like watch some tutorial that build like a big big proje
 
 
 
-### Day 66: 30 May 2022
+### Day 66: 30 June 2022
 
 **Today Progress**: dealing with a lot of firebase logic and integration with react
 
 **Thoughts** : langsung develop tanpa ada final design bener2 malah jadi senjata makan tuan
+
+
+
+
+### Day 67: 11 July 2022
+
+**Today Progress**: Doing some backend with express, having some problem with deployment
+
+**Thoughts** : deploy backend susah amat
